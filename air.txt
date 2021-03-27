@@ -1,0 +1,9 @@
+
+
+Ambient (outdoor) air pollution.
+
+WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health
+
+AQI IQAir
+They have an API!
+https://www.iqair.com/air-pollution-data-api
