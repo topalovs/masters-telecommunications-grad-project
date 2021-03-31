@@ -4,6 +4,41 @@ Ambient (outdoor) air pollution.
 
 WHO Fact Sheet - https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health
 
-AQI IQAir
+ - particulate matter (PM) - Can cause lung cancer and lung and cardiovascular diceases. The major components of PM are sulfate, nitrates, ammonia, sodium chloride, black carbon, mineral dust and water.
+    PM10 (10 microne diameter) can penetrate and lodge deep inside the lungs.
+    PM2.5 can penetrate the lung barrier and enter the blood system
+Routine air quality measurements typically describe such PM concentrations in terms of micrograms per cubic meter (μg/m3). When sufficiently sensitive measurement tools are available, concentrations of fine particles (PM2.5 or smaller), are also reported.
+Guideline values:
+    Fine particulate matter (PM2.5)
+        10 μg/m3 annual mean
+        25 μg/m3 24-hour mean
+
+    Coarse particulate matter (PM10)
+        20 μg/m3 annual mean
+        50 μg/m3 24-hour mean
+
+ - ozone (O3) - 
+Guideline values - 100 μg/m3 8-hour mean 
+one of the major constituents of photochemical smog.
+formed by the reaction with sunlight (photochemical reaction) of pollutants such as nitrogen oxides (NOx) from vehicle and industry emissions and volatile organic compounds (VOCs) emitted by vehicles, solvents and industry.
+Causes breathing problems, triggers asthma, reduces lung function and cause lung diseases.
+
+ - nitrogen dioxide (NO2)
+Guideline values
+    40 μg/m3 annual mean
+    200 μg/m3 1-hour mean
+At concentrations exceeding 200 μg/m3, it is a toxic gas which causes significant inflammation of the airways.
+Main source of nitrate aerosols, which form an important fraction of PM2.5 and, in the presence of ultraviolet light, of ozone. The major sources of anthropogenic emissions of NO2 are combustion processes (heating, power generation, and engines in vehicles and ships).
+
+ - sulfur dioxide (SO2).
+Guideline values
+    20 μg/m3 24-hour mean
+    500 μg/m3 10-minute mean
+ A colourless gas with a sharp odour. Produced from the burning of fossil fuels (coal and oil) and the smelting of mineral ores that contain sulfur. The main anthropogenic source of SO2 is the burning of sulfur-containing fossil fuels for domestic heating, power generation and motor vehicles.
+============================================
+IQAirs
 They have an API!
+https://www.iqair.com/bulgaria/sofia
 https://www.iqair.com/air-pollution-data-api
+============================================
+Нормативни актове на МОСВ: https://www.moew.government.bg/bg/vuzduh/kachestvo-na-atmosferniya-vuzduh/normativni-aktove/
