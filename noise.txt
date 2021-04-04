@@ -1,0 +1,20 @@
+https://www.environmentalpollutioncenters.org/noise-pollution/
+Maintain a level of around 35 dB in your bedroom at night, and around 40 dB in your house during the day
+
+НАРЕДБА № 6 ОТ 26 ЮНИ 2006 Г. ЗА ПОКАЗАТЕЛИТЕ ЗА ШУМ В ОКОЛНАТА СРЕДА...
+https://www.lex.bg/laws/ldoc/2135532401
+
+показатели за шум - в dB(А)
+    - проникващ шум 
+        Lден - 7 до 19 ч. - 35
+        Lвечер - 19 до 23 ч. - 35
+        Lнощ - 23 до 7 ч. - 30
+        L24 - денонощно ниво на шума
+    - за територия
+        ден:вечер:нощ = 60:55:50
+
+        SEL - ниво на звукова експозиция в децибели [dB(А)]
+        LAмакс -максимално ниво на шума в децибели [dB(А)]
+
+проникващ шум
+шумозащита
