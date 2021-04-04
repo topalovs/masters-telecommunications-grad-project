@@ -28,5 +28,4 @@ End nodes <--LoRa RF --> Concentrator/Gateway <-- TCP/IP SSL --> Network Server 
 
 
 
-https://www.dragino.com/products/lora/item/120-lora-iot-kit.html
-https://erelement.com/wireless/lora-iot-kit?zenid=acmv897n0nv78kja9el0d4gnc4
+

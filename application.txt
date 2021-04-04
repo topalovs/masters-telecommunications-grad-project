@@ -20,30 +20,6 @@ https://www.thethingsnetwork.org/marketplace/product/lora-solar-bluetooth-gatewa
 https://www.thethingsnetwork.org/marketplace/product/lora-iot-development-kit
 https://www.thethingsnetwork.org/marketplace/product/mcf-lwws00
 
-Dragino LG01-N LoRa Gateway 868MHz - 1бр.
-Dragino LoRa Shield 868 MHz - 1бр.
-Dragino LoRa/GPS Shield 868 MHz - 1бр.
-Антена 868MHz SMA конектор – 3бр.
-Захранващ адаптер 12V - 1бр.
-Ардуино Уно съвместима платка - 2бр.
-Модул с едно реле - 1бр.
-Инфрачервен сензор за пламък - Flame sensor - 1бр.
-Сензор за светлина с фоторезистор - 1бр.
-Пиезозумер - 1бр.
-Сензор за влажност и температура DHT11 - 1бр.
-Ултразвуков сензор за разстояние HC-SR04 - 1бр.
-Светодиоди с различни цветове - 5 бр.
-USB кабел за Ардуино - 2бр.
-Комплект проводници 20 броя с конектори Ж-Ж - 1бр.
-Комплект проводници 20 броя с конектори М-Ж - 1бр.
-Комплект проводници 20 броя с конектори М-М - 1бр.
-
-
-https://www.technopolis.bg/bg/Kabeli/Kabel-HAMA-122130-HDMI-DVI-1-5/p/324457
-https://www.adafruit.com/product/4074
-https://www.nke-watteco.com/product/usb-dongle-lorawan/
-
-
 Lora Node:
 Lora Wireless module <-- SPI --> MCU module
 Sensor module
